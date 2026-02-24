@@ -1,0 +1,31 @@
+body {
+margin:0;
+font-family: Arial;
+background: linear-gradient(135deg,#1f1c2c,#928dab);
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+color:white;
+}
+
+.container{
+text-align:center;
+background:rgba(255,255,255,0.1);
+padding:30px;
+border-radius:20px;
+}
+
+#clock{
+font-size:40px;
+margin:20px;
+}
+
+button{
+padding:10px;
+margin:5px;
+border:none;
+border-radius:10px;
+background:#ff4e50;
+color:white;
+}
